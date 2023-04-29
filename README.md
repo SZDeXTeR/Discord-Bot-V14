@@ -13,7 +13,6 @@
 - **Fun Commands 🎈**
 
 ㅤ
-***
 # **Features**
 
 - **More Than 70 Commands 💻**
@@ -25,7 +24,6 @@
 - **Update Each Week ⏰**
 
 ㅤ
-***
 # **Contact Me**
 
 - ****[Instagram](https://www.instagram.com/gr_dexter)****
