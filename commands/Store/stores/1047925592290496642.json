@@ -1,0 +1,16 @@
+{
+  "name": "Yotiger Store",
+  "description": "a7san store",
+  "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jhwRWkNowNJmnFtVmVphEYkJTDBA_mwGde7EIkTFhA&s",
+  "ownerId": "1034605437435248662",
+  "sellers": [
+    "1069264082194157568"
+  ],
+  "products": {
+    "nitro": {
+      "name": "nitro",
+      "price": 25,
+      "accounts": []
+    }
+  }
+}

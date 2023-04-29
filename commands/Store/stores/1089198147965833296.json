@@ -1,0 +1,20 @@
+{
+  "name": "Hero S",
+  "description": "**HeroS PlatForm  HeroS is the most reliable and largest commercial field on this platform. We consist of an excellent staff, and there are reliable brokers. Products are provided at the cheapest possible amounts in all ways.  تعريف الخادم  هيرو ستور هو اضمن واكبر مجال تجاري في هذه المنصه ، نحن نتكون من طاقم عمل ممتاز ، و يوجد وسطاء مضمونين , يتم توفـير المنتجات بارخص المبالغ الممكنه بجميع الطرق**",
+  "logoUrl": "https://cdn.discordapp.com/icons/1089198147965833296/999eb52d760c561e1a1b8ea700134379.png?size=4096",
+  "ownerId": "1013386866550128670",
+  "sellers": [
+    "1034605437435248662",
+    "1004019037468115014",
+    "503375506742312970",
+    "843446567640760330",
+    "942479772154474537"
+  ],
+  "products": {
+    "nitro": {
+      "name": "nitro",
+      "price": 150,
+      "accounts": []
+    }
+  }
+}

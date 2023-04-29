@@ -1,0 +1,16 @@
+{
+  "name": "xloy Store",
+  "description": "Best Store Ever",
+  "logoUrl": "https://i.pinimg.com/originals/7c/89/90/7c89904c65970d2581ce4b5a392f7712.gif",
+  "ownerId": "909042331297124353",
+  "sellers": [
+    "1034605437435248662"
+  ],
+  "products": {
+    "nitro": {
+      "name": "nitro",
+      "price": 20,
+      "accounts": []
+    }
+  }
+}
